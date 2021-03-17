@@ -413,7 +413,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b52cf', end
 	font-family: 'brother_1816extrabold';
 	font-size: 34px;
 	color: #4b535d;
-	line-height: 50px;
+	line-height: 44px;
 	text-align: center;
 	text-transform: uppercase;
 	margin-top: -42px;
@@ -422,7 +422,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b52cf', end
 	font-family: 'brother_1816regular';
 	font-size: 18px;
 	color: #000000;
-	line-height: 34px;
+	line-height: 28px;
 	text-align: center;
 }
 
@@ -698,6 +698,20 @@ font-size: 42px;
 	font-size: 30px;
 }
 
+.pop-up-top h2{
+	font-size: 28px;
+	line-height: 38px;
+	margin-top: -10px;
+}
 
+.pop-up-top .close{
+	position: inherit;
+	top: 0;
+	right: 0;
+	font-size: 40px;
+}
+.mag-box{
+	height: 100px;
+}
 
 }
